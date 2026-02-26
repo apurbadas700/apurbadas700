@@ -125,7 +125,7 @@
 
 <h2 align="center" style="color:#00FF00;">🌐 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpan-sadhak-63bb54308/" target="_blank">
+  <a href="https://www.linkedin.com/in/apurba-das-9b8611393" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
@@ -133,7 +133,7 @@
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:new1262006@gmail.com">
+  <a href="mailto:">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40"/>
   </a>
 </p>
