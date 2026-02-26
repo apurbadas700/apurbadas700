@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=H3y+th3r3+👋;Hey+there+👋;I'm+Apurba+Das;I'm+Apurba+Das;C0d3r;%3CERROR%3E+LOADING...;System+Online+✅" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courgette&weight=1000&size=36&duration=1200&pause=400&color=39FF14&center=true&vCenter=true&width=850&lines=Hey+there+👋;I'm+Apurba+Das;;C0d3r;%3CERROR%3E+LOADING...;System+Online+✅" />
 </h1>
 
 <h1 align="center" style="color:#00FF00;">Apurba Das</h1>
@@ -24,10 +24,10 @@
       <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,php" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+      <img src="https://skillicons.dev/icons?i=html,css,react" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+      <img src="https://skillicons.dev/icons?i=django" />
       <br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java Backend"/>
     </td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,maven" />
